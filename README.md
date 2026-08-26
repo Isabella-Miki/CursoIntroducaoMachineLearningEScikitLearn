@@ -1,1 +1,1 @@
-# CompWeek - Introdução a MachineLearning e ScikitLearn
+# CompWeek - Introdução a Machine Learning e Scikit-Learn
