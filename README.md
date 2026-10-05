@@ -1,5 +1,5 @@
 # Introdução a Machine Learning com Python e Scikit-learn
-Repositório oficial do mini curso **Introdução a Machine Learning com Python e Scikit-learn**.
+Repositório oficial do minicurso **Introdução a Machine Learning com Python e Scikit-learn**.
 Este repositório reúne os materiais, códigos, exemplos e exercícios utilizados durante o curso, servindo também como material de consulta para os estudantes após o término das aulas.
 
 ## 🎯 Sobre o curso
