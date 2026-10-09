@@ -17,5 +17,6 @@ Ao longo do curso, vamos passar pelo fluxo básico de um projeto de Machine Lear
 - Google Colab
 
 # Material de apoio
-Link do notebook (base): https://colab.research.google.com/drive/14KWumjSg747-6UUL2IlVPJyjD435R1Vx?usp=sharing
-Link do slide: https://canva.link/jo3bmwasub8y3sn
+Link do notebook (base): [https://colab.research.google.com/drive/14KWumjSg747-6UUL2IlVPJyjD435R1Vx?usp=sharing](https://colab.research.google.com/drive/1jzhainfNRzH33PUXFg1EC69urD1M9v-X?usp=sharing)
+
+Link do slide: https://canva.link/ay9ziz0bcd4to35
