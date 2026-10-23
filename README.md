@@ -12,7 +12,6 @@ Ao longo do curso, vamos passar pelo fluxo básico de um projeto de Machine Lear
 - Scikit-learn
 - Pandas
 - NumPy
-- Seaborn
 - Matplotlib
 - Google Colab
 
